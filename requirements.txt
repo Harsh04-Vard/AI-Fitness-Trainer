@@ -1,7 +1,7 @@
-streamlit
-streamlit-webrtc
-opencv-python-headless
+streamlit==1.36.0
+streamlit-webrtc==0.47.7
+opencv-python-headless==4.9.0.80
 mediapipe==0.10.11
-numpy
-pandas
-joblib
+numpy==1.26.4
+pandas==2.2.2
+joblib==1.4.2
